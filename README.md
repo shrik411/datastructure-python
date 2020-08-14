@@ -7,13 +7,13 @@ Data structure are way of organizing and storing datal they explain the relation
 
 - **Data types**
 
-- Primitive
+- Primitive  
 Integers
 Float
 String
 Boolean
 
-- Non-primitive
+- Non-primitive  
 Array
 List
 Tuples
@@ -21,7 +21,7 @@ Dictionary
 Sets
 Files
 
-- User Defined
+- User Defined  
 stack
 Queue
 Linked List
