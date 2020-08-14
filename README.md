@@ -8,24 +8,24 @@ Data structure are way of organizing and storing datal they explain the relation
 - **Data types**
 
 - Primitive  
-Integers
-Float
-String
-Boolean
+Integers  
+Float  
+String  
+Boolean  
 
 - Non-primitive  
-Array
-List
-Tuples
-Dictionary
-Sets
-Files
+Array  
+List  
+Tuples  
+Dictionary  
+Sets  
+Files  
 
 - User Defined  
-stack
-Queue
-Linked List
-Tree
-Graph
-HashMap
+stack  
+Queue  
+Linked List  
+Tree  
+Graph  
+HashMap  
 
